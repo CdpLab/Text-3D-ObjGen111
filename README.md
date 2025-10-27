@@ -1,8 +1,8 @@
-<h1 align="center">Text-to-3D Object Generation Methods Guided by Sketches and Depth Maps</h1>
+<h1 align="center">Text-to-3D Object Generation Method Guided by Sketches and Depth Maps</h1>
 
 <p align="center">
-Jia Liu, Zihan Pan, Dapeng Chen, Lina Wei, and Aiguo Song<br>
-Nanjing University of Information Science & Technology
+Jia Liu, Zihan Pan, Yizhi Fan, Dapeng Chen*, Lina Wei, and Aiguo Song<br>
+Nanjing University of Information Science and Technology
 </p>
 
 ---
